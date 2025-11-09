@@ -1,2 +1,18 @@
 /node_modules
 /package-lock.json
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+client/build/
+server/build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
